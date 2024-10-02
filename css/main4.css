@@ -1,0 +1,13 @@
+..box{
+    width: 1200px;
+}
+.colo{
+    background: radial-gradient(green, white, blue);
+    border: 2px solid;
+    width: 3500px;
+    height: 2000px;
+    margin-left: 1200px;
+    font-size: 120px;
+    text-align: center;
+    padding-top: 700px;
+}

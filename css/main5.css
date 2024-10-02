@@ -1,0 +1,17 @@
+.box{
+    width: 3200px;
+   margin-top: 100px;
+}
+.color{
+  
+    background: linear-gradient(90deg, blue, green, yellow, orange, red);
+    border: 2px solid;
+    width: 1500px;
+    height: 350px;
+    margin-left: 1200px;
+    font-size: 100px;
+    text-align: center;
+    padding: 250px;
+    color: grey;
+    line-height: 70px;
+}

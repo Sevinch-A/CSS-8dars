@@ -1,0 +1,19 @@
+.box{
+    width: 1200px;
+    height: 1000px;
+    background: linear-gradient(-50deg, rgb(108, 76, 176), rgb(199, 121, 199));
+    padding-left: 550px;
+    padding-top: 450px;
+    margin-left: 400px;
+}
+.time{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    padding-left: 45px;
+    line-height: 500px;
+    box-sizing: border-box;
+    border-radius: 65px;
+    font-size: 170px;
+    color:orange;
+}
